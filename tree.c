@@ -15,7 +15,7 @@ void tree(int size)
     int i;
     int j;
     int k;
-    int space = 3;
+    int space = 5;
     int line = 4;
     int nb_stars = 1;
 
